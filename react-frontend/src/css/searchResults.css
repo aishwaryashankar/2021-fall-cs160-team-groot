@@ -1,5 +1,5 @@
 .outer-container{
-    background-image: url("https://cdn.dribbble.com/users/6407551/screenshots/14739480/media/ad2c082fe7c323212f51ff9e48bd00b7.png?compress=1&resize=1600x1200") !important;
+    background-image: url("https://cdn.dribbble.com/users/6407551/screenshots/14739480/media/ad2c082fe7c323212f51ff9e48bd00b7.png?compress=1&resize=1600x1200") !important; 
     background-size:cover;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -44,5 +44,15 @@
     border-top-right-radius: 12px;
     border-bottom-right-radius: 12px;
   }
+
+.returnButton-SearchPage{
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+    width: 150px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-bottom: 7%;
+}
 
   
